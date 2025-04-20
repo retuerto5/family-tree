@@ -1,8 +1,8 @@
 # Фото 21 #
 
-[<img src="photo_021_75.jpg" />](...)
+[<img src="photo_021_75.jpg" />](https://drive.google.com/file/d/1ysm3GGWLefBwLtohvxBuu0JKF7sDQHYk/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1ysm3GGWLefBwLtohvxBuu0JKF7sDQHYk/view), [2400 dpi](https://drive.google.com/file/d/1mWRZ1K-tBNytDSvazKxpcN915zZ2HUWr/view).
 
 # Опис #
 

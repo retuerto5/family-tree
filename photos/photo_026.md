@@ -1,8 +1,8 @@
 # Фото 26 #
 
-[<img src="photo_026_75.jpg" />](...)
+[<img src="photo_026_75.jpg" />](https://drive.google.com/file/d/1JcQjAeqZRYiuJiOPR-Fxh4L02TSp9vbX/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1JcQjAeqZRYiuJiOPR-Fxh4L02TSp9vbX/view), [2400 dpi](https://drive.google.com/file/d/1QEX4B-GsoDJYNZphMuuMu5qHo6INP9hG/view).
 
 # Опис #
 

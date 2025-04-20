@@ -1,8 +1,8 @@
 # Фото 19 #
 
-[<img src="photo_019_75.jpg" />](...)
+[<img src="photo_019_75.jpg" />](https://drive.google.com/file/d/1AVfswecV_VC0nlMbCFiiuSCEmnrBkFfg/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1AVfswecV_VC0nlMbCFiiuSCEmnrBkFfg/view), [2400 dpi](https://drive.google.com/file/d/1U-X-aS9JEyfX88h_hWh17GW8-ZpfIvws/view).
 
 # Опис #
 

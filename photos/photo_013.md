@@ -1,8 +1,8 @@
 # Фото 13 #
 
-[<img src="photo_013_75.jpg" />](...)
+[<img src="photo_013_75.jpg" />](https://drive.google.com/file/d/1kXOtdh1ql090VCvL9ojd9SpL9UxrgjNL/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1kXOtdh1ql090VCvL9ojd9SpL9UxrgjNL/view), [2400 dpi](https://drive.google.com/file/d/1-sCDDoT13WxA-RkXK8eoePV47xYZy8lx/view).
 
 # Опис #
 

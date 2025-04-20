@@ -1,8 +1,8 @@
 # Фото 27 #
 
-[<img src="photo_027_75.jpg" />](...)
+[<img src="photo_027_75.jpg" />](https://drive.google.com/file/d/1QyxjuATwuYFyGl8EbNUyZF35HlCaCDed/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1QyxjuATwuYFyGl8EbNUyZF35HlCaCDed/view), [2400 dpi](https://drive.google.com/file/d/1fHHZHuLsFtRFMvKr4O5uQpQApJ5cMnoL/view).
 
 # Опис #
 

@@ -1,8 +1,8 @@
 # Фото 20 #
 
-[<img src="photo_020_75.jpg" />](...)
+[<img src="photo_020_75.jpg" />](https://drive.google.com/file/d/1_9_YN5463mbfj0dNiTfxZeqzO7ye2-gd/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1_9_YN5463mbfj0dNiTfxZeqzO7ye2-gd/view), [2400 dpi](https://drive.google.com/file/d/1xVuPkqrgq9yyewgi0DXiEVSYUmD76Kl_/view).
 
 # Опис #
 

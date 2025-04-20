@@ -1,8 +1,8 @@
 # Фото 28 #
 
-[<img src="photo_028_75_protected.jpg" />](...)
+[<img src="photo_028_75_protected.jpg" />](https://drive.google.com/file/d/1e8GWZRNtBRtEH-9Mt_GjZnhZq4d4ghcH/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1e8GWZRNtBRtEH-9Mt_GjZnhZq4d4ghcH/view), [2400 dpi](https://drive.google.com/file/d/1tGMwalUxAgI-UvRpa4sv20V2UspbSmR2/view).
 
 # Опис #
 

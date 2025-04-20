@@ -1,8 +1,8 @@
 # Фото 18 #
 
-[<img src="photo_018_75.jpg" />](...)
+[<img src="photo_018_75.jpg" />](https://drive.google.com/file/d/1MKmZBV12rINLHNnpualYJE4SzoBbG1aZ/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1MKmZBV12rINLHNnpualYJE4SzoBbG1aZ/view), [2400 dpi](https://drive.google.com/file/d/1xutYpffOoRDe08KY1HJFKmJaAZ-cACz_/view).
 
 # Опис #
 

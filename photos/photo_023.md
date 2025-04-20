@@ -1,8 +1,8 @@
 # Фото 23 #
 
-[<img src="photo_023_75.jpg" />](...)
+[<img src="photo_023_75.jpg" />](https://drive.google.com/file/d/1WxRXcUhEkW895DkhUuz0th-LY56z8L7M/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1WxRXcUhEkW895DkhUuz0th-LY56z8L7M/view), [2400 dpi](https://drive.google.com/file/d/1_H2zSxsGUiRe5JOUJGfDqogswpWkdMwi/view).
 
 # Опис #
 

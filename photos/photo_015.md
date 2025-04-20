@@ -1,8 +1,8 @@
 # Фото 15 #
 
-[<img src="photo_015_75.jpg" />](...)
+[<img src="photo_015_75.jpg" />](https://drive.google.com/file/d/1Vq-X0cavXuLhnsYy11BOpt5juGD69EhR/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1Vq-X0cavXuLhnsYy11BOpt5juGD69EhR/view), [2400 dpi](https://drive.google.com/file/d/1oLu81sS5067AwbeKOzA2OTpCefG6GT1n/view).
 
 # Опис #
 
