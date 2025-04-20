@@ -1,8 +1,8 @@
 # Фото 3 #
 
-[<img src="photo_003_75.jpg" />](...)
+[<img src="photo_003_75.jpg" />](https://drive.google.com/file/d/1t7PqHr6dN4n-BzWK7i35x7KjpChnZzeu/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1t7PqHr6dN4n-BzWK7i35x7KjpChnZzeu/view), [2400 dpi](https://drive.google.com/file/d/1PVrh4kjTsIje_Iv_05W4515QmwRtL13A/view).
 
 # Опис #
 

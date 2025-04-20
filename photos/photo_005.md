@@ -1,8 +1,8 @@
 # Фото 5 #
 
-[<img src="photo_005_75.jpg" />](...)
+[<img src="photo_005_75.jpg" />](https://drive.google.com/file/d/1JoonRHEsYxA_N1fRlvTdH05lj_ncpBuE/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1JoonRHEsYxA_N1fRlvTdH05lj_ncpBuE/view), [2400 dpi](https://drive.google.com/file/d/1NTLGYIK6LYg0Pws54dEebb0my6y3fuvt/view).
 
 # Опис #
 

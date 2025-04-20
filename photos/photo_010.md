@@ -1,8 +1,8 @@
 # Фото 10 #
 
-[<img src="photo_010_75_protected.jpg" />](...)
+[<img src="photo_010_75_protected.jpg" />](https://drive.google.com/file/d/1aLnwi9drNxb_kk43ES9GC2TLPSvgTPGI/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1aLnwi9drNxb_kk43ES9GC2TLPSvgTPGI/view), [2400 dpi](https://drive.google.com/file/d/1vDXi9OsP8M2XT_07Rxw5Pu49dbRE3-Dm/view).
 
 # Опис #
 

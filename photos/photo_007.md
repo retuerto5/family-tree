@@ -1,8 +1,8 @@
 # Фото 7 #
 
-[<img src="photo_007_75.jpg" />](...)
+[<img src="photo_007_75.jpg" />](https://drive.google.com/file/d/1pScIP6bQ2RvNXiIVL9iH9GhNI_UHammW/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1pScIP6bQ2RvNXiIVL9iH9GhNI_UHammW/view), [2400 dpi](https://drive.google.com/file/d/1omDryHZESU9Vbp038ZC5q4iSXv79tkOc/view).
 
 # Опис #
 

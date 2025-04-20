@@ -1,8 +1,8 @@
 # Фото 4 #
 
-[<img src="photo_004_75.jpg" />](...)
+[<img src="photo_004_75.jpg" />](https://drive.google.com/file/d/1ud02aqCSpTpDa67udammIkrAXf4IsxMM/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1ud02aqCSpTpDa67udammIkrAXf4IsxMM/view), [2400 dpi](https://drive.google.com/file/d/1wxp2OWOZQhdqE5fCIQraNqyTOMT2uoq6/view).
 
 # Опис #
 

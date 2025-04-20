@@ -1,8 +1,8 @@
 # Фото 12 #
 
-[<img src="photo_012_75_protected.jpg" />](...)
+[<img src="photo_012_75_protected.jpg" />](https://drive.google.com/file/d/1P3d_WoQ7c15klFFzezHwDy4eA_iAizqz/view)
 
-Краща якість: [600 dpi](...), [2400 dpi](...).
+Краща якість: [600 dpi](https://drive.google.com/file/d/1P3d_WoQ7c15klFFzezHwDy4eA_iAizqz/view), [2400 dpi](https://drive.google.com/file/d/11a6P1aJTGXNDJG8Yh7DmVy7AjSTbYP84/view).
 
 # Опис #
 
